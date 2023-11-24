@@ -315,7 +315,7 @@
         </td>
     </tr>
     <tr>
-        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.aner.com">ANER Sistemas Informáticos</a> · Jornada completa</td>
+        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.aner.com">ANER Sistemas Informáticos</a> · Media jornada</td>
     </tr>
     <tr>
         <td>ANER - Sistemas Informáticos: abr. 2010 - jun. 2010</td>
@@ -325,5 +325,42 @@
     </tr>
     <tr>
         <td colspan="2">Mantenimiento y evolutivo de la aplicación <a href="https://portalfincas.com">PortalFincas</a> destinada a la administración de fincas online y comunidades de vecinos.</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=2 style="background-color: white; text-align: center;">
+            <a href="https://www.esle.eu/es/socios/kam-telekomunikazio-aholkularitza">
+                <img src="https://www.esle.eus/sites/default/files/styles/logotipo/public/socios/2018-05/KAM.gif" alt="Logotipo de KAM Telekomunikazio Aholkularitza">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Desarrollador de aplicaciones de implementación y clonación de computadoras en <a href="https://www.netkam.com">KAM Telekomunikazio Aholkularitza</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td rowspan=3 style="background-color: white; text-align: center;">
+            <a href="https://github.com/InoreNeronI/openirudi">
+                <img src="https://storage.googleapis.com/google-code-archive/v2/code.google.com/openirudi/logo.png" alt="Logotipo de Openirudi">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>KAM Telekomunikazio Aholkularitza: ene. 2009 - oct. 2009</td>
+    </tr>
+    <tr>
+        <td>Oiartzun, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2"><ul>
+            <li>Evolutivo del proyecto <a href="https://github.com/InoreNeronI/openirudi">OpenIrudi</a>: <a href="https://code.google.com/p/openirudi">Solución de clonación universal</a> para el sistema operativo Windows.</li>
+                <ul>
+                    <li>Aplicación cliente para la preparación del sistema y creación de la imagen bajo Windows.</li>
+                    <li>Aplicación distribuida <a href="https://slitaz.org">PXE bajo un Micro-GNU/Linux</a> destinada a la detección y listado de los dispositivos de hardware, a la gestión de particiones, y a la clonación de las mismas desde/a un repositorio de imágenes.</li>
+                    <li>Aplicación servidor alimentado del repositorio <a href="https://driverpack.io">Driverpacks</a> para la descarga e instalación de controladores en cliente para el hardware previamente detectado y configuración de parámetros de máquina y red.</li>
+                </ul>
+            <li>Evolutivo del proyecto <a href="https://github.com/InoreNeronI/legedia">Legedia</a> gestionado por <a href="http://esle.eu">esle</a>, un formulario web para la notificación telemática de ficheros a la <a href="https://www.agpd.es">Agencia de Protección de Datos</a>.</li>
+            <li>Tecnologías: Symfony 1.0 y 1.2, jQuery, Sysprep, Lighttpd, Apache, Slitaz y Debian GNU/Linux.</li>
+        </ul></td>
     </tr>
 </table>
