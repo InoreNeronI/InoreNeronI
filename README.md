@@ -140,16 +140,16 @@
         </td>
     </tr>
     <tr>
-        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.tartanga.eus">ANER Sistemas Informáticos</a> · Jornada completa</td>
+        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.aner.com">ANER Sistemas Informáticos</a> · Jornada completa</td>
     </tr>
     <tr>
-        <td>ANER Sistemas Informáticos, S.L.: oct. 2014 - nov. 2014</td>
+        <td>ANER - Sistemas Informáticos: oct. 2014 - nov. 2014</td>
     </tr>
     <tr>
         <td>Zarautz, Euskadi · Presencial</td>
     </tr>
     <tr>
-        <td colspan="2">Mantenimiento y evolutivo de las aplicaciones <a href="https://www.miscondominios.com">Mis condominios</a> y <a href="https://www.vecinosenred.es">Vecinos en red</a> destinadas a la administración de fincas online y comunidades de vecinos.</td>
+        <td colspan="2">Mantenimiento y evolutivo de las aplicaciones <a href="https://www.miscondominios.com">Mis condominios</a> (versión hispanoamericana) y <a href="https://www.vecinosenred.es">Vecinos en red</a> (versión española) destinadas a la administración de fincas y de comunidades de vecinos.</td>
     </tr>
 </table>
 <table>
@@ -179,5 +179,151 @@
                 <li>Scripting en Python y en Bash para rutinas de proceso de datos externos.</li>
             </ul></li>
         </ul></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/329006">
+                <img src="https://media.licdn.com/dms/image/D4E0BAQHswFtbHW-vAA/company-logo_200_200/0/1692264151298/in2_ingenieria_de_la_informacion_logo?e=1709164800&v=beta&t=vMZYQE7JtuGXH9pmfC9WpJNxf_BhchH1bQsMwjCi4Qc" alt="Logotipo de IN<sub>2</sub>">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Desarrollador web senior en <a href="https://www.in2.es">IN<sub>2</sub></a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>IN<sub>2</sub> - Ingeniería de la información: ene. 2012 - ene. 2013</td>
+    </tr>
+    <tr>
+        <td>Barcelona, Catalunya · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2"><ul>
+            <li>Mantenimiento y evolución de aplicaciones web multiusuario, región e idioma (intranet, extranet, facturación, etc.) para la empresa <a href="https://www.adegroup.eu">Asistencia Dental Europea</a>.</li>
+            <li>Gestión de productos de aseguradoras dentales, gestión de pacientes de clínicas dentales, gestión de citas y tratamientos, procesos de facturación, notificación de incidencias y automatización de alarmas: <a href="https://adeland.adegroup.eu">https://adeland.adegroup.eu</a></li>
+            <li>Diseño y desarrollo de sitios web dinámicos para los productos de las diferentes aseguradoras dentales.</li>
+            <li>Framework Symfony 1.4, jQuery, ExtJS 4, GMaps API, Bootstrap, Sphinx, Pootle, Atlassian JIRA y metodología SCRUM.</li>
+        </ul></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/363775">
+                <img src="https://media.licdn.com/dms/image/C560BAQEk6SHOdClIOg/company-logo_200_200/0/1630587303233/internet_business_development___ibd_internet_logo?e=1709164800&v=beta&t=i295stsv1i1ciQ71gu8FTZjKvw-HkuDVi-XdBM5Q6Pw" alt="Logotipo de IBD Internet">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Freelancer y formador de Symfony en <a href="https://www.ibdinternet.com">IBD Internet</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>IBD Internet: jul. 2011 - oct. 2011</td>
+    </tr>
+    <tr>
+        <td>Donostia, Euskadi · Remoto</td>
+    </tr>
+    <tr>
+        <td colspan="2"><ul>
+            <li>Desarrollo inicial de una intranet denominada <a href="https://www.gesub-online.com">Gesub-PRL</a> destinada a la prevención de riesgos laborales a partir de análisis elaborados por el directivo: gestión documental de subcontratas y proveedores de fabricantes de papel de Gipuzkoa.</li>
+            <li>Elegí Symfony 2 por el entusiasmo por aprenderlo y por coincidir con las fechas de su lanzamiento. El equipo estaba formado por un chico recién graduado, un directivo y yo como programador y formador.</li>
+        </ul></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/nemgrouplimited">
+                <img src="https://docs.nem.io/assets/images/logo.png" alt="Logotipo de NEM Solutions">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Desarrollador evolutivo (subcontratado por GFI Norte) en <a href="https://nem.io">NEM Solutions</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>NEM Solutions: mar. 2011 - jul. 2011</td>
+    </tr>
+    <tr>
+        <td>Donostia, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Desarrollo evolutivo del proyecto <a href="https://aurawheel.com">A.U.R.A Wheel</a>, encargado por CAF, para la gestión y monitorización avanzada de rodadura ferroviaria:
+            <ul>
+                <li>Trazado de perfiles de ruedas con jQuery y <a href="http://www.flotcharts.org">Flot</a>.</li>
+                <li>Java Server Faces 2 y Spring Web Flow, Hibernate, frontend con <a href="https://www.primefaces.org">Primefaces</a> y metodología SCRUM.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.donostia.eus">
+                <img src="https://www.donostia.eus/taxo.nsf/logo_ayunta.png" alt="Logotipo de NEM Solutions">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Diseño y desarrollo de herramientas educativas en la <a href="https://www.donostia.eus/ataria/es/web/musika-eskola">Escuela Municipal de Música y Danza</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>Ayuntamiento de San Sebastián: sept. 2010 - mar. 2011</td>
+    </tr>
+    <tr>
+        <td>Donostia, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2"><ul>
+            <li>Desarrollo del plugin <a href="https://plugins.trac.wordpress.org/browser/lim4wp">Lim4wp</a> para integrar <a href="https://educalim.com">Libros Interactivos Multimedia</a> en WordPress.</li>
+            <li>Diseño e implantación en equipo de la web <a href="https://doremimusikabizi.com">Doremi Musika Bizi!!!</a> destinada a publicar material didáctico relacionado con enseñanzas musicales bajo Wordpress.</li>
+            <li>Implantación de una la plataforma e-learning bajo Moodle.</li>
+        </ul></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/10651410">
+                <img src="https://media.licdn.com/dms/image/C4D0BAQFFIbkaGrGoFw/company-logo_200_200/0/1647950521450/elkanogroupmarketinginmobiliario_logo?e=1709164800&v=beta&t=T4f-br3ktoiqGiM1mSTyLb3pxu9UDRi-HL-pRodF5RA" alt="Logotipo de elkano Group">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Diseño y desarrollo de aplicaciones web en <a href="https://www.elkanogroup.com">Neofis Marketing Technologies</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>Neofis Marketing Technologies: jun. 2010 - sept. 2010</td>
+    </tr>
+    <tr>
+        <td>Donostia, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Mantenimiento y evolutivo de la intranet destinada a la gestión integral de alojamientos y casas rurales para <a href="http://nekatur.net">Nekatur</a> con Symfony 1.4 y jQuery.
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/862179">
+                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos, S.L.">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.aner.com">ANER Sistemas Informáticos</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>ANER - Sistemas Informáticos: abr. 2010 - jun. 2010</td>
+    </tr>
+    <tr>
+        <td>Zarautz, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2">Mantenimiento y evolutivo de la aplicación <a href="https://portalfincas.com">PortalFincas</a> destinada a la administración de fincas online y comunidades de vecinos.</td>
     </tr>
 </table>
