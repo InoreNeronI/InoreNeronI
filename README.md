@@ -2,7 +2,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/511597">
-                <img src="https://pbs.twimg.com/profile_images/1618962720392445952/txGHTyrk_200x200.jpg" height="120" width="120" alt="Logotipo de CIFP Plaiaundi LHII">
+                <img src="https://pbs.twimg.com/profile_images/1618962720392445952/txGHTyrk_200x200.jpg" height="120" alt="Logotipo de CIFP Plaiaundi LHII">
             </a>
         </td>
     </tr>
@@ -20,7 +20,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/511597">
-                <img src="https://plaiaundi.hezkuntza.net/image/layout_set_logo?img_id=116817" alt="Logotipo de IES Plaiaundi BHI">
+                <img src="https://plaiaundi.hezkuntza.net/image/layout_set_logo?img_id=116817" height="120" alt="Logotipo de IES Plaiaundi BHI">
             </a>
         </td>
     </tr>
@@ -38,7 +38,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/511597">
-                <img src="https://lhusurbil.eus/web/Paginas/img/logo_centro_entrada.png" alt="Logotipo de CIFP Usurbil LHII">
+                <img src="https://lhusurbil.eus/web/Paginas/img/logo_centro_entrada.png" height="120" alt="Logotipo de CIFP Usurbil LHII">
             </a>
         </td>
     </tr>
@@ -56,7 +56,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/511597">
-                <img src="https://pbs.twimg.com/profile_images/1288208722083360769/RicpLCFJ_200x200.png" height="120" width="120" alt="Logotipo de IES Zubiri-Manteo BHI">
+                <img src="https://pbs.twimg.com/profile_images/1288208722083360769/RicpLCFJ_200x200.png" height="120" alt="Logotipo de IES Zubiri-Manteo BHI">
             </a>
         </td>
     </tr>
@@ -74,7 +74,7 @@
     <tr>
         <td rowspan=2 style="background-color: white; text-align: center;">
             <a href="https://isei-ivei.euskadi.eus">
-                <img src="https://isei-ivei.euskadi.eus/image/company_logo?img_id=1002911&amp;t=1700740954187" alt="Logotipo de ISEI-IVEI">
+                <img src="https://isei-ivei.euskadi.eus/image/company_logo?img_id=1002911&amp;t=1700740954187" height="120" alt="Logotipo de ISEI-IVEI">
             </a>
         </td>
     </tr>
@@ -84,7 +84,7 @@
     <tr>
         <td rowspan=3 style="background-color: white; text-align: center;">
             <a href="https://github.com/InoreNeronI/ed.17">
-                <img src="https://isei-ivei.euskadi.eus/documents/635622/5512764/ED23LOGOA/ae5cfce2-ed16-5239-155a-f6f28432cbea" alt="Logotipo de evaluación diagnóstica de mitad de etapa">
+                <img src="https://isei-ivei.euskadi.eus/documents/635622/5512764/ED23LOGOA/ae5cfce2-ed16-5239-155a-f6f28432cbea" height="120" alt="Logotipo de evaluación diagnóstica de mitad de etapa">
             </a>
         </td>
     </tr>
@@ -99,7 +99,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/polit-cnico-easo">
-                <img src="https://easo.hezkuntza.net/image/layout_set_logo?img_id=113513" alt="Logotipo de EASO Politeknikoa">
+                <img src="https://easo.hezkuntza.net/image/layout_set_logo?img_id=113513" height="120" alt="Logotipo de EASO Politeknikoa">
             </a>
         </td>
     </tr>
@@ -117,7 +117,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/fp-tartanga">
-                <img src="https://www.tartanga.eus/wp-content/themes/tartanga-child/img/logo/logo.png" alt="Logotipo de CIFP Tartanga LHII">
+                <img src="https://www.tartanga.eus/wp-content/themes/tartanga-child/img/logo/logo.png" height="120" alt="Logotipo de CIFP Tartanga LHII">
             </a>
         </td>
     </tr>
@@ -135,7 +135,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/862179">
-                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos">
+                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" height="120" alt="Logotipo de ANER Sistemas Informaticos">
             </a>
         </td>
     </tr>
@@ -156,7 +156,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/pointverdegreen">
-                <img src="http://www.pointverde.com/images/logo.png" alt="Logotipo de PointVerde">
+                <img src="http://www.pointverde.com/images/logo.png" height="120" alt="Logotipo de PointVerde">
             </a>
         </td>
     </tr>
@@ -185,7 +185,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/329006">
-                <img src="https://media.licdn.com/dms/image/D4E0BAQHswFtbHW-vAA/company-logo_200_200/0/1692264151298/in2_ingenieria_de_la_informacion_logo?e=1709164800&v=beta&t=vMZYQE7JtuGXH9pmfC9WpJNxf_BhchH1bQsMwjCi4Qc" alt="Logotipo de IN<sub>2</sub>">
+                <img src="https://media.licdn.com/dms/image/D4E0BAQHswFtbHW-vAA/company-logo_200_200/0/1692264151298/in2_ingenieria_de_la_informacion_logo?e=1709164800&v=beta&t=vMZYQE7JtuGXH9pmfC9WpJNxf_BhchH1bQsMwjCi4Qc" height="120" alt="Logotipo de IN<sub>2</sub>">
             </a>
         </td>
     </tr>
@@ -211,7 +211,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/363775">
-                <img src="https://media.licdn.com/dms/image/C560BAQEk6SHOdClIOg/company-logo_200_200/0/1630587303233/internet_business_development___ibd_internet_logo?e=1709164800&v=beta&t=i295stsv1i1ciQ71gu8FTZjKvw-HkuDVi-XdBM5Q6Pw" alt="Logotipo de IBD Internet">
+                <img src="https://media.licdn.com/dms/image/C560BAQEk6SHOdClIOg/company-logo_200_200/0/1630587303233/internet_business_development___ibd_internet_logo?e=1709164800&v=beta&t=i295stsv1i1ciQ71gu8FTZjKvw-HkuDVi-XdBM5Q6Pw" height="120" alt="Logotipo de IBD Internet">
             </a>
         </td>
     </tr>
@@ -235,7 +235,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/nemgrouplimited">
-                <img src="https://docs.nem.io/assets/images/logo.png" alt="Logotipo de NEM Solutions">
+                <img src="https://docs.nem.io/assets/images/logo.png" height="120" alt="Logotipo de NEM Solutions">
             </a>
         </td>
     </tr>
@@ -262,7 +262,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.donostia.eus">
-                <img src="https://www.donostia.eus/taxo.nsf/logo_ayunta.png" alt="Logotipo de NEM Solutions">
+                <img src="https://www.donostia.eus/taxo.nsf/logo_ayunta.png" height="120" alt="Logotipo de NEM Solutions">
             </a>
         </td>
     </tr>
@@ -287,7 +287,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/10651410">
-                <img src="https://media.licdn.com/dms/image/C4D0BAQFFIbkaGrGoFw/company-logo_200_200/0/1647950521450/elkanogroupmarketinginmobiliario_logo?e=1709164800&v=beta&t=T4f-br3ktoiqGiM1mSTyLb3pxu9UDRi-HL-pRodF5RA" alt="Logotipo de elkano Group">
+                <img src="https://media.licdn.com/dms/image/C4D0BAQFFIbkaGrGoFw/company-logo_200_200/0/1647950521450/elkanogroupmarketinginmobiliario_logo?e=1709164800&v=beta&t=T4f-br3ktoiqGiM1mSTyLb3pxu9UDRi-HL-pRodF5RA" height="120" alt="Logotipo de elkano Group">
             </a>
         </td>
     </tr>
@@ -310,7 +310,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/862179">
-                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos">
+                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" height="120" alt="Logotipo de ANER Sistemas Informaticos">
             </a>
         </td>
     </tr>
@@ -331,7 +331,7 @@
     <tr>
         <td rowspan=2 style="background-color: white; text-align: center;">
             <a href="https://www.esle.eu/es/socios/kam-telekomunikazio-aholkularitza">
-                <img src="https://www.esle.eus/sites/default/files/styles/logotipo/public/socios/2018-05/KAM.gif" alt="Logotipo de KAM Telekomunikazio Aholkularitza">
+                <img src="https://www.esle.eus/sites/default/files/styles/logotipo/public/socios/2018-05/KAM.gif" height="120" alt="Logotipo de KAM Telekomunikazio Aholkularitza">
             </a>
         </td>
     </tr>
@@ -341,7 +341,7 @@
     <tr>
         <td rowspan=3 style="background-color: white; text-align: center;">
             <a href="https://github.com/InoreNeronI/openirudi">
-                <img src="https://raw.githubusercontent.com/InoreNeronI/openirudi/main/oiserver/web/images/logo-berria1.png" alt="Logotipo de Openirudi">
+                <img src="https://raw.githubusercontent.com/InoreNeronI/openirudi/main/oiserver/web/images/logo-berria1.png" height="120" alt="Logotipo de Openirudi">
             </a>
         </td>
     </tr>
@@ -368,12 +368,12 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/1715421">
-                <img src="https://media.licdn.com/dms/image/C4D0BAQEKNwvLu29uPQ/company-logo_100_100/0/1630544083749/adimedia_logo?e=1709164800&v=beta&t=YI7kl8gz3aoos7wlmc8Rknd2FhiivgvecxSw5IYyKXs" alt="Logotipo de Adimedia">
+                <img src="https://media.licdn.com/dms/image/C4D0BAQEKNwvLu29uPQ/company-logo_100_100/0/1630544083749/adimedia_logo?e=1709164800&v=beta&t=YI7kl8gz3aoos7wlmc8Rknd2FhiivgvecxSw5IYyKXs" height="120" alt="Logotipo de Adimedia">
             </a>
         </td>
     </tr>
     <tr>
-        <td>Desarrollador y diseñador de aplicaciones web freelance en <a href="https://www.aner.com">Adimedia</a> · Jornada completa</td>
+        <td>Desarrollador y diseñador de aplicaciones web freelance en <a href="https://www.adimedia.net">Adimedia</a> · Jornada completa</td>
     </tr>
     <tr>
         <td>Adimedia: mar. 2008 - sept. 2008</td>
@@ -394,12 +394,12 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/2499450">
-                <img src="https://www.elhuyar.eus/themes/custom/elhuyar_theme/logo.svg" alt="Logotipo de Elhuyar Fundazioa">
+                <img src="https://www.elhuyar.eus/themes/custom/elhuyar_theme/logo.png" height="120" alt="Logotipo de Elhuyar Fundazioa">
             </a>
         </td>
     </tr>
     <tr>
-        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.aner.com">Elhuyar Fundazioa</a> · Jornada completa</td>
+        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.elhuyar.eus">Elhuyar Fundazioa</a> · Jornada completa</td>
     </tr>
     <tr>
         <td>Elhuyar Fundazioa: jun. 2007 - dic. 2007</td>
@@ -418,7 +418,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/1978">
-                <img src="https://www.shsc.nhs.uk/themes/custom/omega_bigbluedoor/logo.png" alt="Logotipo de Sheffield Care Trust">
+                <img src="https://www.shsc.nhs.uk/themes/custom/omega_bigbluedoor/logo.png" height="120" alt="Logotipo de Sheffield Care Trust">
             </a>
         </td>
     </tr>
@@ -441,7 +441,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/1577783">
-                <img src="https://media.licdn.com/dms/image/C4D0BAQEmlbTjy3rlvQ/company-logo_100_100/0/1677136838009/tecnipesa_logo?e=1709164800&v=beta&t=o3F7ZYG0BUY9CbjptLl1fSrVISC1GU-DLApO2OWdFDg" alt="Logotipo de Tecnipesa">
+                <img src="https://media.licdn.com/dms/image/C4D0BAQEmlbTjy3rlvQ/company-logo_100_100/0/1677136838009/tecnipesa_logo?e=1709164800&v=beta&t=o3F7ZYG0BUY9CbjptLl1fSrVISC1GU-DLApO2OWdFDg" height="120" alt="Logotipo de Tecnipesa">
             </a>
         </td>
     </tr>
