@@ -390,3 +390,73 @@
         </ul></td>
     </tr>
 </table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/2499450">
+                <img src="https://www.elhuyar.eus/themes/custom/elhuyar_theme/logo.svg" alt="Logotipo de Elhuyar Fundazioa">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Desarrollador y diseñador de aplicaciones web en <a href="https://www.aner.com">Elhuyar Fundazioa</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>Elhuyar Fundazioa: jun. 2007 - dic. 2007</td>
+    </tr>
+    <tr>
+        <td>Usurbil, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2"><ul>
+            <li>Desarrollo sobre <a href="http://mu.wordpress.org">WordPress μ</a> para un <a href="https://web.archive.org/web/20080916134128/http://elhuyar-blogak.org">sistema multisite</a>.</li>
+            <li>Desarrollo del multi-sitio para el concurso de ideas <a href="https://zientzia.eus/artikuluak/teknoskopioa-2007-ideia-lehiaketak-baditu-irabazle/es">Teknoskopioa 2007</a>.</li>
+        </ul></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/1978">
+                <img src="https://www.shsc.nhs.uk/themes/custom/omega_bigbluedoor/logo.png" alt="Logotipo de Sheffield Care Trust">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Prácticas de desarrollo web en <a href="https://www.shsc.nhs.uk">Sheffield Care Trust</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>Sheffield Care Trust: oct. 2006 - dic. 2006</td>
+    </tr>
+    <tr>
+        <td>Sheffield, United Kingdom · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Prácticas en el extranjero con la beca Leonardo Da Vinci en el desarrollo para la gestión de datos clínicos con PHP y MySQL.
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/1577783">
+                <img src="https://media.licdn.com/dms/image/C4D0BAQEmlbTjy3rlvQ/company-logo_100_100/0/1677136838009/tecnipesa_logo?e=1709164800&v=beta&t=o3F7ZYG0BUY9CbjptLl1fSrVISC1GU-DLApO2OWdFDg" alt="Logotipo de Tecnipesa">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Prácticas de desarrollo en <a href="https://www.tecnipesa.com">Tecnipesa</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>Tecnipesa: nov. 2004 - feb. 2005</td>
+    </tr>
+    <tr>
+        <td>Donostia, Euskadi · Presencial</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Prácticas de programación desarrollando aplicaciones Windows y gestionando bases de datos relacionales con Visual Basic, Visual FoxPro, SQL Server y Access.
+        </td>
+    </tr>
+</table>
