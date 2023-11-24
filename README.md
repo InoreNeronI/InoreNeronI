@@ -135,7 +135,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/862179">
-                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos, S.L.">
+                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos">
             </a>
         </td>
     </tr>
@@ -278,7 +278,7 @@
     <tr>
         <td colspan="2"><ul>
             <li>Desarrollo del plugin <a href="https://plugins.trac.wordpress.org/browser/lim4wp">Lim4wp</a> para integrar <a href="https://educalim.com">Libros Interactivos Multimedia</a> en WordPress.</li>
-            <li>Diseño e implantación en equipo de la web <a href="https://doremimusikabizi.com">Doremi Musika Bizi!!!</a> destinada a publicar material didáctico relacionado con enseñanzas musicales bajo Wordpress.</li>
+            <li>Diseño e implantación en equipo de la web <a href="https://doremimusikabizi.com">Doremi Musika Bizi!!!</a> destinada a publicar material didáctico relacionado con enseñanzas musicales bajo WordPress.</li>
             <li>Implantación de una la plataforma e-learning bajo Moodle.</li>
         </ul></td>
     </tr>
@@ -310,7 +310,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/862179">
-                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos, S.L.">
+                <img src="https://www.aner.com/images/aner-sistemas-informaticos-logo.PNG" alt="Logotipo de ANER Sistemas Informaticos">
             </a>
         </td>
     </tr>
@@ -341,7 +341,7 @@
     <tr>
         <td rowspan=3 style="background-color: white; text-align: center;">
             <a href="https://github.com/InoreNeronI/openirudi">
-                <img src="https://storage.googleapis.com/google-code-archive/v2/code.google.com/openirudi/logo.png" alt="Logotipo de Openirudi">
+                <img src="https://raw.githubusercontent.com/InoreNeronI/openirudi/main/oiserver/web/images/logo-berria1.png" alt="Logotipo de Openirudi">
             </a>
         </td>
     </tr>
@@ -361,6 +361,32 @@
                 </ul>
             <li>Evolutivo del proyecto <a href="https://github.com/InoreNeronI/legedia">Legedia</a> gestionado por <a href="http://esle.eu">esle</a>, un formulario web para la notificación telemática de ficheros a la <a href="https://www.agpd.es">Agencia de Protección de Datos</a>.</li>
             <li>Tecnologías: Symfony 1.0 y 1.2, jQuery, Sysprep, Lighttpd, Apache, Slitaz y Debian GNU/Linux.</li>
+        </ul></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td rowspan=4 style="background-color: white; text-align: center;">
+            <a href="https://www.linkedin.com/company/1715421">
+                <img src="https://media.licdn.com/dms/image/C4D0BAQEKNwvLu29uPQ/company-logo_100_100/0/1630544083749/adimedia_logo?e=1709164800&v=beta&t=YI7kl8gz3aoos7wlmc8Rknd2FhiivgvecxSw5IYyKXs" alt="Logotipo de Adimedia">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Desarrollador y diseñador de aplicaciones web freelance en <a href="https://www.aner.com">Adimedia</a> · Jornada completa</td>
+    </tr>
+    <tr>
+        <td>Adimedia: mar. 2008 - sept. 2008</td>
+    </tr>
+    <tr>
+        <td>Irun, Euskadi · Remoto</td>
+    </tr>
+    <tr>
+        <td colspan="2"><ul>
+            <li>Desarrollo del plugin <a href="https://wordpress.org/plugins/wp-surveys">WP-Surveys</a> para integrar encuestas en WordPress.</li>
+            <li>Desarrollo del weblog <a href="https://www.euskadi.eus/web01-s2oga/es/contenidos/nota_prensa/euskara_21_mintegiak_abian/es_hps/euskara_21_aurkezpenak_abian.html">Euskara21</a> para el Gobierno Vasco: refactorización tanto de algunos plugins como del diseño.</li>
+            <li>Refactorización de la bolsa de trabajo del <a href="https://web.archive.org/web/20180316130942/http://trabajo.fundacionitc.org">Instituto de Transporte y Comercio</a>: sacar la aplicación al uso público, gestión de usuarios (empresas y candidatos), mejora del diseño, de la funcionalidad y del nivel de seguridad.</li>
+            <li>Renovación de la intranet para los distribuidores de <a href="https://www.tesa.es">Tesa</a>: gestor documental de noticias y directorios, sistema de creación de presupuestos y del catálogo.</li>
         </ul></td>
     </tr>
 </table>
