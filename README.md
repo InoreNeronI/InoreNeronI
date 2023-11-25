@@ -394,7 +394,7 @@
     <tr>
         <td rowspan=4 style="background-color: white; text-align: center;">
             <a href="https://www.linkedin.com/company/2499450">
-                <img src="https://www.elhuyar.eus/themes/custom/elhuyar_theme/logo.png" height="120" alt="Logotipo de Elhuyar Fundazioa">
+                <img src="https://media.licdn.com/dms/image/C4E0BAQE3qutuPQ8NAg/company-logo_200_200/0/1630619072491/elhuyar_fundazioa_logo?e=1709164800&v=beta&t=IG0LF-dKbK14LyweFoJ7ZJ2ecmha20CxeyzjSxtrgwY" height="120" alt="Logotipo de Elhuyar Fundazioa">
             </a>
         </td>
     </tr>
