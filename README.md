@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://unpkg.com/github-markdown-css@5.4.0/github-markdown.css">
 <article class="markdown-body">
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/511597">
@@ -19,7 +19,7 @@
             <td>Irun, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/511597">
@@ -37,11 +37,11 @@
             <td>Irun, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/511597">
-                    <img src="https://lhusurbil.eus/web/Paginas/img/logo_centro_entrada.png" height="120" alt="Logotipo de CIFP Usurbil LHII">
+                    <img src="https://lhusurbil.eus/web/Paginas/img/logo_centro_entrada.png" alt="Logotipo de CIFP Usurbil LHII">
                 </a>
             </td>
         </tr>
@@ -55,7 +55,7 @@
             <td>Usurbil, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/511597">
@@ -73,7 +73,7 @@
             <td>Donostia, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=2 style="text-align: center;">
                 <a href="https://isei-ivei.euskadi.eus">
@@ -98,7 +98,7 @@
             <td>Bilbao, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/polit-cnico-easo">
@@ -116,7 +116,7 @@
             <td>Donostia, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/fp-tartanga">
@@ -134,7 +134,7 @@
             <td>Erandio/Altzaga, Euskadi · Presencial</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/862179">
@@ -155,7 +155,7 @@
             <td colspan="2">Mantenimiento y evolutivo de las aplicaciones <a href="https://www.miscondominios.com">Mis condominios</a> (versión hispanoamericana) y <a href="https://www.vecinosenred.es">Vecinos en red</a> (versión española) destinadas a la administración de fincas y de comunidades de vecinos.</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/pointverdegreen">
@@ -184,7 +184,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/329006">
@@ -210,7 +210,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/363775">
@@ -234,7 +234,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/nemgrouplimited">
@@ -261,7 +261,7 @@
             </td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.donostia.eus">
@@ -286,7 +286,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/10651410">
@@ -309,7 +309,7 @@
             </td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/862179">
@@ -330,7 +330,7 @@
             <td colspan="2">Mantenimiento y evolutivo de la aplicación <a href="https://portalfincas.com">PortalFincas</a> destinada a la administración de fincas online y comunidades de vecinos.</td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=2 style="text-align: center;">
                 <a href="https://www.esle.eu/es/socios/kam-telekomunikazio-aholkularitza">
@@ -367,7 +367,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/1715421">
@@ -393,7 +393,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/2499450">
@@ -417,7 +417,7 @@
             </ul></td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/1978">
@@ -440,7 +440,7 @@
             </td>
         </tr>
     </table>
-    <table>
+    <table style="background-color: whitesmoke">
         <tr>
             <td rowspan=4 style="text-align: center;">
                 <a href="https://www.linkedin.com/company/1577783">
